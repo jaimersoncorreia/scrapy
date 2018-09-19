@@ -9,3 +9,5 @@ class CourseraSpider(scrapy.Spider):
 
     def parse(self, response):
         self.log('Hello World!  Scrapy Project #######################################3')
+
+
