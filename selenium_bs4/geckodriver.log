@@ -70,3 +70,9 @@ JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo
 1537331992824	Marionette	WARN	TLS certificate errors will be ignored for this session
 
 (firefox-esr:14852): GLib-GObject-WARNING **: /build/glib2.0-B1uXKV/glib2.0-2.50.3/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7efc656ff3d0' of type 'MaiAtkType139'
+1537354051700	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fLg2EZZhlwBy"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1537354063350	Marionette	INFO	Listening on port 46067
+1537354063510	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox-esr:2549): GLib-GObject-WARNING **: /build/glib2.0-B1uXKV/glib2.0-2.50.3/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f64daf544c0' of type 'MaiAtkType139'
