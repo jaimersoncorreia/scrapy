@@ -1,26 +1,286 @@
-Nome;Ano;
-http://www.ale.am.gov.br/wp-content/uploads/2016/08/acumuladas1.pdf;Acumuladas;2016;Julho
-http://www.ale.am.gov.br/wp-content/uploads/2016/08/bosco-saraiva1.pdf;Bosco Saraiva;2016;Julho
-http://www.ale.am.gov.br/wp-content/uploads/2016/08/Abdala.pdf;Dep. Abdala Fraxe;2016;Julho
-http://www.ale.am.gov.br/wp-content/uploads/2016/08/adjuto.pdf;Dep. Adjuto Afonso;2016;Julho
-http://www.ale.am.gov.br/wp-content/uploads/2016/08/alcimar-maciel.pdf;Dep. Alcimar Maciel;2016;Julho
-http://www.ale.am.gov.br/wp-content/uploads/2016/08/Alessandra.pdf;Dep. Alessandra Campêlo;2016;Julho
-http://www.ale.am.gov.br/wp-content/uploads/2016/08/augusto-ferraz1.pdf;Dep. Augusto Ferraz;2016;Julho
-http://www.ale.am.gov.br/wp-content/uploads/2016/08/belarmino1.pdf;Dep. Belarmino Lins;2016;Julho
-http://www.ale.am.gov.br/wp-content/uploads/2016/08/Bi-Garcia.pdf;Dep. Bi Garcia;2016;Julho
-http://www.ale.am.gov.br/wp-content/uploads/2016/08/carlos-alberto.pdf;dep. Carlos Alberto;2016;Julho
-http://www.ale.am.gov.br/wp-content/uploads/2016/08/david1.pdf;Dep. David Almeida;2016;Julho
-http://www.ale.am.gov.br/wp-content/uploads/2016/08/dermilson1.pdf;Dep. Dermilson Chagas;2016;Julho
-http://www.ale.am.gov.br/wp-content/uploads/2016/08/Dr.-Gomes.pdf;Dep. Dr. Gomes;2016;Julho
-http://www.ale.am.gov.br/wp-content/uploads/2016/08/francisco-souza1.pdf;Dep. Francisco Souza;2016;Julho
-http://www.ale.am.gov.br/wp-content/uploads/2016/08/jose-ricardo1.pdf;Dep. José Ricardo;2016;Julho
-http://www.ale.am.gov.br/wp-content/uploads/2016/08/Neto.pdf;Dep. Josué Neto;2016;Julho
-http://www.ale.am.gov.br/wp-content/uploads/2016/08/luiz-castro1.pdf;Dep. Luiz Castro;2016;Julho
-http://www.ale.am.gov.br/wp-content/uploads/2016/08/orlando-cidade1.pdf;Dep. Orlando  Cidade;2016;Julho
-http://www.ale.am.gov.br/wp-content/uploads/2016/08/platiny1.pdf;Dep. Platiny Soares;2016;Julho
-http://www.ale.am.gov.br/wp-content/uploads/2016/08/ricardo-nicolau1.pdf;Dep. Ricardo Nicolau;2016;Julho
-http://www.ale.am.gov.br/wp-content/uploads/2016/08/saba-reis1.pdf;Dep. Sebastião Reis;2016;Julho
-http://www.ale.am.gov.br/wp-content/uploads/2016/08/serafim-correa.pdf;Dep. Serafim Corrêa;2016;Julho
-http://www.ale.am.gov.br/wp-content/uploads/2016/08/sinesio-campos.pdf;Dep. Sinésio Campos.;2016;Julho
-http://www.ale.am.gov.br/wp-content/uploads/2016/08/vicente-lopes1.pdf;Dep. Vicente Lopes;2016;Julho
-http://www.ale.am.gov.br/wp-content/uploads/2016/08/wanderley-dallas3.pdf;Dep. Wanderley Dallas;2016;Julho
+nome;link;ano;mes
+Acumuladas;http://www.ale.am.gov.br/wp-content/uploads/2016/02/acumuladas.pdf;2016;Janeiro
+Dep. Abdala Fraxe;http://www.ale.am.gov.br/wp-content/uploads/2016/02/abdala.pdf;2016;Janeiro
+Dep. Alcimar Maciel;http://www.ale.am.gov.br/wp-content/uploads/2016/02/ALCIMAR.pdf;2016;Janeiro
+Dep. Alessandra Campêlo;http://www.ale.am.gov.br/wp-content/uploads/2016/02/ALESSANDRA.pdf;2016;Janeiro
+Dep. Belarmino Lins;http://www.ale.am.gov.br/wp-content/uploads/2016/02/BELARMINO.pdf;2016;Janeiro
+Dep. Bi Garcia;http://www.ale.am.gov.br/wp-content/uploads/2016/02/BI-GARCIA.pdf;2016;Janeiro
+Dep. Bosco Saraiva;http://www.ale.am.gov.br/wp-content/uploads/2016/02/BOSCO.pdf;2016;Janeiro
+Dep. Carlos Alberto;http://www.ale.am.gov.br/wp-content/uploads/2016/02/CARLOS-ALBERTO.pdf;2016;Janeiro
+Dep. David Almeida;http://www.ale.am.gov.br/wp-content/uploads/2016/02/david.pdf;2016;Janeiro
+Dep. Dermilson Chagas;http://www.ale.am.gov.br/wp-content/uploads/2016/02/DERMILSON.pdf;2016;Janeiro
+Dep. Francisco Gomes;http://www.ale.am.gov.br/wp-content/uploads/2016/02/DR.-GOMES.pdf;2016;Janeiro
+Dep. Francisco Souza;http://www.ale.am.gov.br/wp-content/uploads/2016/02/FRANCISCO-SOUZA.pdf;2016;Janeiro
+Dep. josé Ricardo;http://www.ale.am.gov.br/wp-content/uploads/2016/02/JOSe-RICARDO.pdf;2016;Janeiro
+Dep. Josué Neto;http://www.ale.am.gov.br/wp-content/uploads/2016/02/NETO.pdf;2016;Janeiro
+Dep. Platiny  Soares;http://www.ale.am.gov.br/wp-content/uploads/2016/02/PLATINY.pdf;2016;Janeiro
+Dep. Ricardo Nicolau;http://www.ale.am.gov.br/wp-content/uploads/2016/02/RICARDO-NICOLAU.pdf;2016;Janeiro
+Dep. Sabá Reis;http://www.ale.am.gov.br/wp-content/uploads/2016/02/SABa-REIS.pdf;2016;Janeiro
+Dep. Serafim Corrêa;http://www.ale.am.gov.br/wp-content/uploads/2016/02/SERAFIM.pdf;2016;Janeiro
+Dep. Sinésio Campos;http://www.ale.am.gov.br/wp-content/uploads/2016/02/SINeSIO.pdf;2016;Janeiro
+Dep. Vicente Lopes;http://www.ale.am.gov.br/wp-content/uploads/2016/02/VICENTE.pdf;2016;Janeiro
+Dep.Adjuto Afonso;http://www.ale.am.gov.br/wp-content/uploads/2016/02/ADJUTO.pdf;2016;Janeiro
+Dep.Augusto Ferraz;http://www.ale.am.gov.br/wp-content/uploads/2016/02/FERRAZ.pdf;2016;Janeiro
+Dep.Luiz Castro;http://www.ale.am.gov.br/wp-content/uploads/2016/02/LUIZ-CASTRO.pdf;2016;Janeiro
+Dep.Orlando Cidade;http://www.ale.am.gov.br/wp-content/uploads/2016/02/ORLANDO-CIDADE.pdf;2016;Janeiro
+Dep.Wanderley Dallas;http://www.ale.am.gov.br/wp-content/uploads/2016/02/WANDERLEY-DALLAS.pdf;2016;Janeiro
+Acumuladas;http://www.ale.am.gov.br/wp-content/uploads/2016/03/acumuladas.pdf;2016;Fevereiro
+Adjuto Afonso;http://www.ale.am.gov.br/wp-content/uploads/2016/03/Adjuto.pdf;2016;Fevereiro
+Dep. Abdala Fraxe;http://www.ale.am.gov.br/wp-content/uploads/2016/03/abdala1.pdf;2016;Fevereiro
+Dep. Alessandra Campelo;http://www.ale.am.gov.br/wp-content/uploads/2016/03/alessandra.pdf;2016;Fevereiro
+Dep. Augusto Ferraz;http://www.ale.am.gov.br/wp-content/uploads/2016/03/augusto-ferraz.pdf;2016;Fevereiro
+Dep. Belarmino Lins;http://www.ale.am.gov.br/wp-content/uploads/2016/03/belarmino.pdf;2016;Fevereiro
+Dep. Bi Garcia;http://www.ale.am.gov.br/wp-content/uploads/2016/03/bi.pdf;2016;Fevereiro
+Dep. Bosco Saraiva;http://www.ale.am.gov.br/wp-content/uploads/2016/03/bosco.pdf;2016;Fevereiro
+Dep. Cabo Maciel;http://www.ale.am.gov.br/wp-content/uploads/2016/03/cabo-maciel.pdf;2016;Fevereiro
+Dep. Carlos Alberto;http://www.ale.am.gov.br/wp-content/uploads/2016/03/carlos-alberto.pdf;2016;Fevereiro
+Dep. David Almeida;http://www.ale.am.gov.br/wp-content/uploads/2016/03/david1.pdf;2016;Fevereiro
+Dep. Dermilson Chagas;http://www.ale.am.gov.br/wp-content/uploads/2016/03/dermilson.pdf;2016;Fevereiro
+Dep. Dr. Gomes;http://www.ale.am.gov.br/wp-content/uploads/2016/03/Dr.-Gomes.pdf;2016;Fevereiro
+Dep. Francisco Souza;http://www.ale.am.gov.br/wp-content/uploads/2016/03/francisco.pdf;2016;Fevereiro
+Dep. Josué Neto;http://www.ale.am.gov.br/wp-content/uploads/2016/03/josue-neto.pdf;2016;Fevereiro
+Dep. Luiz Castro;http://www.ale.am.gov.br/wp-content/uploads/2016/03/luiz-castro.pdf;2016;Fevereiro
+Dep. Ricardo Nicolau;http://www.ale.am.gov.br/wp-content/uploads/2016/03/ricardo-nicolau.pdf;2016;Fevereiro
+Dep. Serafim Corrêa;http://www.ale.am.gov.br/wp-content/uploads/2016/03/serafim.pdf;2016;Fevereiro
+Dep. Sinésio Campos;http://www.ale.am.gov.br/wp-content/uploads/2016/03/sinesio.pdf;2016;Fevereiro
+Dep. Vicente Lopes;http://www.ale.am.gov.br/wp-content/uploads/2016/03/vicente.pdf;2016;Fevereiro
+Dep.José Ricardo;http://www.ale.am.gov.br/wp-content/uploads/2016/03/jose-ricardo.pdf;2016;Fevereiro
+Dep.Orlando Cidade;http://www.ale.am.gov.br/wp-content/uploads/2016/03/orlando-cidade.pdf;2016;Fevereiro
+Dep.Platiny Soares;http://www.ale.am.gov.br/wp-content/uploads/2016/03/platiny.pdf;2016;Fevereiro
+Dep.Sabá Reis;http://www.ale.am.gov.br/wp-content/uploads/2016/03/saba-reis.pdf;2016;Fevereiro
+Dep.wanderley Dallas;http://www.ale.am.gov.br/wp-content/uploads/2016/03/wanderley-dallas.pdf;2016;Fevereiro
+acumuladas;http://www.ale.am.gov.br/wp-content/uploads/2016/04/acumuladas.pdf;2016;Março
+Dep. Abdala Fraxe;http://www.ale.am.gov.br/wp-content/uploads/2016/04/abdala.pdf;2016;Março
+Dep. Adjuto Afonso;http://www.ale.am.gov.br/wp-content/uploads/2016/04/adjuto.pdf;2016;Março
+Dep. Alcimar Maciel;http://www.ale.am.gov.br/wp-content/uploads/2016/04/cabo-maciel.pdf;2016;Março
+Dep. Alessandra Campêlo;http://www.ale.am.gov.br/wp-content/uploads/2016/04/alessandra-campelo.pdf;2016;Março
+Dep. Augusto Ferraz;http://www.ale.am.gov.br/wp-content/uploads/2016/04/augusto-ferraz.pdf;2016;Março
+Dep. Belarmino Lins;http://www.ale.am.gov.br/wp-content/uploads/2016/04/belarmino.pdf;2016;Março
+Dep. Bosco Saraiva;http://www.ale.am.gov.br/wp-content/uploads/2016/04/bosco-saraiva.pdf;2016;Março
+Dep. Carlos Alberto;http://www.ale.am.gov.br/wp-content/uploads/2016/04/carlos-alberto.pdf;2016;Março
+Dep. David Almeida;http://www.ale.am.gov.br/wp-content/uploads/2016/04/david.pdf;2016;Março
+Dep. Dermilson  Chagas;http://www.ale.am.gov.br/wp-content/uploads/2016/04/dermilson.pdf;2016;Março
+Dep. Francisco Gomes;http://www.ale.am.gov.br/wp-content/uploads/2016/04/gomes.pdf;2016;Março
+Dep. Francisco Souza;http://www.ale.am.gov.br/wp-content/uploads/2016/04/francisco-souza.pdf;2016;Março
+Dep. Frank Luiz Garcia;http://www.ale.am.gov.br/wp-content/uploads/2016/04/bi.pdf;2016;Março
+Dep. José Ricardo;http://www.ale.am.gov.br/wp-content/uploads/2016/04/jose-ricardo.pdf;2016;Março
+Dep. José Wanderley Dallas;http://www.ale.am.gov.br/wp-content/uploads/2016/04/dallas.pdf;2016;Março
+Dep. Josué Neto;http://www.ale.am.gov.br/wp-content/uploads/2016/04/neto.pdf;2016;Março
+Dep. Luiz Castro;http://www.ale.am.gov.br/wp-content/uploads/2016/04/luiz-castro.pdf;2016;Março
+Dep. Orlando Cidade;http://www.ale.am.gov.br/wp-content/uploads/2016/04/orlando.pdf;2016;Março
+Dep. Platiny Soares;http://www.ale.am.gov.br/wp-content/uploads/2016/04/platiny.pdf;2016;Março
+Dep. Ricardo Nicolau;http://www.ale.am.gov.br/wp-content/uploads/2016/04/ricardo-nicolau.pdf;2016;Março
+Dep. Sabá Reis;http://www.ale.am.gov.br/wp-content/uploads/2016/04/SABa-REIS.pdf;2016;Março
+Dep. Serafim Corrêa;http://www.ale.am.gov.br/wp-content/uploads/2016/04/SERAFIM-CORREA.pdf;2016;Março
+Dep. Sinésio Campos;http://www.ale.am.gov.br/wp-content/uploads/2016/04/SINeSIO.pdf;2016;Março
+Dep. Vicente Lopes;http://www.ale.am.gov.br/wp-content/uploads/2016/04/VICENTE.pdf;2016;Março
+acumuladas;http://www.ale.am.gov.br/wp-content/uploads/2016/05/acumuladas.pdf;2016;Abril
+Dep. Abdala Fraxe;http://www.ale.am.gov.br/wp-content/uploads/2016/05/abdala.pdf;2016;Abril
+Dep. Adjuto Afonso;http://www.ale.am.gov.br/wp-content/uploads/2016/05/adjuto.pdf;2016;Abril
+Dep. Alcimar Maciel;http://www.ale.am.gov.br/wp-content/uploads/2016/05/alcimar.pdf;2016;Abril
+Dep. Alessandra Campêlo;http://www.ale.am.gov.br/wp-content/uploads/2016/05/alessandra.pdf;2016;Abril
+Dep. Augusto Ferraz;http://www.ale.am.gov.br/wp-content/uploads/2016/05/ferraz.pdf;2016;Abril
+Dep. Belarmino Lins;http://www.ale.am.gov.br/wp-content/uploads/2016/05/belarmino.pdf;2016;Abril
+Dep. Bi Garcia;http://www.ale.am.gov.br/wp-content/uploads/2016/05/bi.pdf;2016;Abril
+Dep. Bosco Saraiva;http://www.ale.am.gov.br/wp-content/uploads/2016/05/bosco-saraiva.pdf;2016;Abril
+Dep. Carlos Alberto;http://www.ale.am.gov.br/wp-content/uploads/2016/05/carlos-alberto.pdf;2016;Abril
+Dep. Dallas;http://www.ale.am.gov.br/wp-content/uploads/2016/05/dallas.pdf;2016;Abril
+Dep. David Almeida;http://www.ale.am.gov.br/wp-content/uploads/2016/05/david.pdf;2016;Abril
+Dep. Dermilson Chagas;http://www.ale.am.gov.br/wp-content/uploads/2016/05/dermilson.pdf;2016;Abril
+Dep. Francisco Gomes;http://www.ale.am.gov.br/wp-content/uploads/2016/05/gomes.pdf;2016;Abril
+Dep. Francisco Souza;http://www.ale.am.gov.br/wp-content/uploads/2016/05/francisco-souza.pdf;2016;Abril
+Dep. José Ricardo;http://www.ale.am.gov.br/wp-content/uploads/2016/05/jose-ricardo.pdf;2016;Abril
+Dep. Josué Neto;http://www.ale.am.gov.br/wp-content/uploads/2016/05/neto.pdf;2016;Abril
+Dep. Luiz Castro;http://www.ale.am.gov.br/wp-content/uploads/2016/05/luiz-castro.pdf;2016;Abril
+Dep. Orlando Cidade;http://www.ale.am.gov.br/wp-content/uploads/2016/05/orlando.pdf;2016;Abril
+Dep. Platiny Soares;http://www.ale.am.gov.br/wp-content/uploads/2016/05/platiny.pdf;2016;Abril
+Dep. Ricardo Nicolau;http://www.ale.am.gov.br/wp-content/uploads/2016/05/ricardo-nicolau.pdf;2016;Abril
+Dep. Sabá Reis.;http://www.ale.am.gov.br/wp-content/uploads/2016/05/saba-reis.pdf;2016;Abril
+Dep. Serafim Corrêa;http://www.ale.am.gov.br/wp-content/uploads/2016/05/serafim-correa.pdf;2016;Abril
+Dep. Vicente Lopes;http://www.ale.am.gov.br/wp-content/uploads/2016/05/vicente.pdf;2016;Abril
+Dep.Sinésio Campos.;http://www.ale.am.gov.br/wp-content/uploads/2016/05/sinesio.pdf;2016;Abril
+Acumuladas;http://www.ale.am.gov.br/wp-content/uploads/2016/06/acumuladas.pdf;2016;Maio
+Dep. Abdala Fraxe;http://www.ale.am.gov.br/wp-content/uploads/2016/06/abdala.pdf;2016;Maio
+Dep. Adjuto Afonso;http://www.ale.am.gov.br/wp-content/uploads/2016/06/adjuto.pdf;2016;Maio
+Dep. Alcimar Maciel;http://www.ale.am.gov.br/wp-content/uploads/2016/06/maciel.pdf;2016;Maio
+Dep. Alessandra Campêlo;http://www.ale.am.gov.br/wp-content/uploads/2016/06/alessandra.pdf;2016;Maio
+Dep. Augusto Ferraz;http://www.ale.am.gov.br/wp-content/uploads/2016/06/augusto-ferraz1.pdf;2016;Maio
+Dep. Belarmino Lins;http://www.ale.am.gov.br/wp-content/uploads/2016/06/belarmino.pdf;2016;Maio
+Dep. Bi Garcia;http://www.ale.am.gov.br/wp-content/uploads/2016/06/bi.pdf;2016;Maio
+Dep. Bosco Saraiva;http://www.ale.am.gov.br/wp-content/uploads/2016/06/bosco-saraiva.pdf;2016;Maio
+Dep. Carlos Alberto;http://www.ale.am.gov.br/wp-content/uploads/2016/06/carlos-alberto.pdf;2016;Maio
+Dep. David Almeida;http://www.ale.am.gov.br/wp-content/uploads/2016/07/david.pdf;2016;Maio
+Dep. Dermilson Chagas;http://www.ale.am.gov.br/wp-content/uploads/2016/06/dermilson.pdf;2016;Maio
+Dep. Francisco Gomes;http://www.ale.am.gov.br/wp-content/uploads/2016/06/gomes.pdf;2016;Maio
+Dep. Francisco Souza;http://www.ale.am.gov.br/wp-content/uploads/2016/06/francisco-Souza.pdf;2016;Maio
+Dep. José Ricardo;http://www.ale.am.gov.br/wp-content/uploads/2016/06/jose-ricardo.pdf;2016;Maio
+Dep. Josué Neto;http://www.ale.am.gov.br/wp-content/uploads/2016/06/neto.pdf;2016;Maio
+Dep. Luiz Castro;http://www.ale.am.gov.br/wp-content/uploads/2016/06/luiz-castro.pdf;2016;Maio
+Dep. Orlando Cidade;http://www.ale.am.gov.br/wp-content/uploads/2016/06/orlando-cidade.pdf;2016;Maio
+Dep. Platiny Soares;http://www.ale.am.gov.br/wp-content/uploads/2016/06/platiny.pdf;2016;Maio
+Dep. Ricardo Nicolau;http://www.ale.am.gov.br/wp-content/uploads/2016/06/ricardo-nicolau.pdf;2016;Maio
+Dep. Sabá Reis;http://www.ale.am.gov.br/wp-content/uploads/2016/06/saba-reis.pdf;2016;Maio
+Dep. Serafim Corrêa;http://www.ale.am.gov.br/wp-content/uploads/2016/06/serafim.pdf;2016;Maio
+Dep. Sinésio Campos;http://www.ale.am.gov.br/wp-content/uploads/2016/06/sinesio.pdf;2016;Maio
+Dep. Vicente Lopes;http://www.ale.am.gov.br/wp-content/uploads/2016/06/vicente.pdf;2016;Maio
+Dep. Wanderley Dallas;http://www.ale.am.gov.br/wp-content/uploads/2016/06/wanderley-dallas.pdf;2016;Maio
+acumuladas;http://www.ale.am.gov.br/wp-content/uploads/2016/08/acumuladas.pdf;2016;Junho
+Dep. Abdala Fraxe;http://www.ale.am.gov.br/wp-content/uploads/2016/08/abdala.pdf;2016;Junho
+Dep. Alessandra Campelo;http://www.ale.am.gov.br/wp-content/uploads/2016/08/alessandra.pdf;2016;Junho
+Dep. Augusto Ferraz;http://www.ale.am.gov.br/wp-content/uploads/2016/08/augusto-ferraz.pdf;2016;Junho
+Dep. Belarmino Lins;http://www.ale.am.gov.br/wp-content/uploads/2016/08/belarmino.pdf;2016;Junho
+Dep. Bi Garcia;http://www.ale.am.gov.br/wp-content/uploads/2016/08/bi.pdf;2016;Junho
+Dep. Bosco Saraiva;http://www.ale.am.gov.br/wp-content/uploads/2016/08/bosco-saraiva.pdf;2016;Junho
+Dep. Carlos Alberto;http://www.ale.am.gov.br/wp-content/uploads/2016/08/Carlos-Alberto.pdf;2016;Junho
+Dep. David Almeida;http://www.ale.am.gov.br/wp-content/uploads/2016/08/david.pdf;2016;Junho
+Dep. Dermilson Chagas;http://www.ale.am.gov.br/wp-content/uploads/2016/08/dermilson.pdf;2016;Junho
+Dep. Francisco de Souza;http://www.ale.am.gov.br/wp-content/uploads/2016/08/francisco-souza.pdf;2016;Junho
+Dep. Francisco Gomes;http://www.ale.am.gov.br/wp-content/uploads/2016/08/dr.-gomes.pdf;2016;Junho
+Dep. José Ricardo;http://www.ale.am.gov.br/wp-content/uploads/2016/08/jose-ricardo.pdf;2016;Junho
+Dep. Josué Neto;http://www.ale.am.gov.br/wp-content/uploads/2016/08/josue-neto.pdf;2016;Junho
+Dep. Platiny Soares;http://www.ale.am.gov.br/wp-content/uploads/2016/08/platiny.pdf;2016;Junho
+Dep. Ricardo Nicolau;http://www.ale.am.gov.br/wp-content/uploads/2016/08/ricardo-nicolau.pdf;2016;Junho
+Dep. Sabá Reis;http://www.ale.am.gov.br/wp-content/uploads/2016/08/saba-reis.pdf;2016;Junho
+Dep. Serafim Corrêa;http://www.ale.am.gov.br/wp-content/uploads/2016/08/serafim.pdf;2016;Junho
+Dep. Sinésio Campos;http://www.ale.am.gov.br/wp-content/uploads/2016/08/sinesio.pdf;2016;Junho
+Dep. Vicente Lopes;http://www.ale.am.gov.br/wp-content/uploads/2016/08/vicente-lopes.pdf;2016;Junho
+Dep. Wanderley Dallas;http://www.ale.am.gov.br/wp-content/uploads/2016/08/wanderley-dallas2.pdf;2016;Junho
+Dep.Adjuto Afonso;http://www.ale.am.gov.br/wp-content/uploads/2016/08/Adjuto.pdf;2016;Junho
+Dep.Alcimar Maciel;http://www.ale.am.gov.br/wp-content/uploads/2016/08/Alcimar.pdf;2016;Junho
+Dep.Luiz Castro;http://www.ale.am.gov.br/wp-content/uploads/2016/08/luiz-castro.pdf;2016;Junho
+Dep.Orlando Cidade;http://www.ale.am.gov.br/wp-content/uploads/2016/08/orlando-cidade.pdf;2016;Junho
+Acumuladas;http://www.ale.am.gov.br/wp-content/uploads/2016/08/acumuladas1.pdf;2016;Julho
+Bosco Saraiva;http://www.ale.am.gov.br/wp-content/uploads/2016/08/bosco-saraiva1.pdf;2016;Julho
+Dep. Abdala Fraxe;http://www.ale.am.gov.br/wp-content/uploads/2016/08/Abdala.pdf;2016;Julho
+Dep. Adjuto Afonso;http://www.ale.am.gov.br/wp-content/uploads/2016/08/adjuto.pdf;2016;Julho
+Dep. Alcimar Maciel;http://www.ale.am.gov.br/wp-content/uploads/2016/08/alcimar-maciel.pdf;2016;Julho
+Dep. Alessandra Campêlo;http://www.ale.am.gov.br/wp-content/uploads/2016/08/Alessandra.pdf;2016;Julho
+Dep. Augusto Ferraz;http://www.ale.am.gov.br/wp-content/uploads/2016/08/augusto-ferraz1.pdf;2016;Julho
+Dep. Belarmino Lins;http://www.ale.am.gov.br/wp-content/uploads/2016/08/belarmino1.pdf;2016;Julho
+Dep. Bi Garcia;http://www.ale.am.gov.br/wp-content/uploads/2016/08/Bi-Garcia.pdf;2016;Julho
+dep. Carlos Alberto;http://www.ale.am.gov.br/wp-content/uploads/2016/08/carlos-alberto.pdf;2016;Julho
+Dep. David Almeida;http://www.ale.am.gov.br/wp-content/uploads/2016/08/david1.pdf;2016;Julho
+Dep. Dermilson Chagas;http://www.ale.am.gov.br/wp-content/uploads/2016/08/dermilson1.pdf;2016;Julho
+Dep. Dr. Gomes;http://www.ale.am.gov.br/wp-content/uploads/2016/08/Dr.-Gomes.pdf;2016;Julho
+Dep. Francisco Souza;http://www.ale.am.gov.br/wp-content/uploads/2016/08/francisco-souza1.pdf;2016;Julho
+Dep. José Ricardo;http://www.ale.am.gov.br/wp-content/uploads/2016/08/jose-ricardo1.pdf;2016;Julho
+Dep. Josué Neto;http://www.ale.am.gov.br/wp-content/uploads/2016/08/Neto.pdf;2016;Julho
+Dep. Luiz Castro;http://www.ale.am.gov.br/wp-content/uploads/2016/08/luiz-castro1.pdf;2016;Julho
+Dep. Orlando  Cidade;http://www.ale.am.gov.br/wp-content/uploads/2016/08/orlando-cidade1.pdf;2016;Julho
+Dep. Platiny Soares;http://www.ale.am.gov.br/wp-content/uploads/2016/08/platiny1.pdf;2016;Julho
+Dep. Ricardo Nicolau;http://www.ale.am.gov.br/wp-content/uploads/2016/08/ricardo-nicolau1.pdf;2016;Julho
+Dep. Sebastião Reis;http://www.ale.am.gov.br/wp-content/uploads/2016/08/saba-reis1.pdf;2016;Julho
+Dep. Serafim Corrêa;http://www.ale.am.gov.br/wp-content/uploads/2016/08/serafim-correa.pdf;2016;Julho
+Dep. Sinésio Campos.;http://www.ale.am.gov.br/wp-content/uploads/2016/08/sinesio-campos.pdf;2016;Julho
+Dep. Vicente Lopes;http://www.ale.am.gov.br/wp-content/uploads/2016/08/vicente-lopes1.pdf;2016;Julho
+Dep. Wanderley Dallas;http://www.ale.am.gov.br/wp-content/uploads/2016/08/wanderley-dallas3.pdf;2016;Julho
+acumuladas;http://www.ale.am.gov.br/wp-content/uploads/2016/09/acumuladas.pdf;2016;Agosto
+Dep. Abdala Fraxe;http://www.ale.am.gov.br/wp-content/uploads/2016/09/Abdala.pdf;2016;Agosto
+Dep. Alcimar Maciel;http://www.ale.am.gov.br/wp-content/uploads/2016/09/Alcimar.pdf;2016;Agosto
+Dep. Alessandra Campêlo;http://www.ale.am.gov.br/wp-content/uploads/2016/09/alessandra.pdf;2016;Agosto
+Dep. Augusto Ferraz;http://www.ale.am.gov.br/wp-content/uploads/2016/09/augusto-ferraz.pdf;2016;Agosto
+Dep. Belarmino Lins;http://www.ale.am.gov.br/wp-content/uploads/2016/09/belarmino.pdf;2016;Agosto
+Dep. Bosco Saraiva;http://www.ale.am.gov.br/wp-content/uploads/2016/09/bosco-saraiva.pdf;2016;Agosto
+Dep. Carlos Alberto;http://www.ale.am.gov.br/wp-content/uploads/2016/09/carlos-alberto.pdf;2016;Agosto
+Dep. David Almeida;http://www.ale.am.gov.br/wp-content/uploads/2016/09/david.pdf;2016;Agosto
+Dep. Dermilson Chagas;http://www.ale.am.gov.br/wp-content/uploads/2016/09/dermilson.pdf;2016;Agosto
+Dep. Francisco de Souza;http://www.ale.am.gov.br/wp-content/uploads/2016/09/francisco-souza.pdf;2016;Agosto
+Dep. Francisco Gomes;http://www.ale.am.gov.br/wp-content/uploads/2016/09/Dr.-Gomes.pdf;2016;Agosto
+Dep. Orlando Cidade;http://www.ale.am.gov.br/wp-content/uploads/2016/09/orlando-cidade.pdf;2016;Agosto
+Dep. Platiny Soares;http://www.ale.am.gov.br/wp-content/uploads/2016/09/platiny-soares.pdf;2016;Agosto
+Dep. Ricardo Nicolau;http://www.ale.am.gov.br/wp-content/uploads/2016/09/ricardo-nicolau.pdf;2016;Agosto
+Dep. Sinésio Campos;http://www.ale.am.gov.br/wp-content/uploads/2016/09/sinesio.pdf;2016;Agosto
+Dep. Vicente Lopes;http://www.ale.am.gov.br/wp-content/uploads/2016/09/vicente-lopes.pdf;2016;Agosto
+Dep. Wanderley Dallas;http://www.ale.am.gov.br/wp-content/uploads/2016/09/wanderley-dallas.pdf;2016;Agosto
+acumuladas;http://www.ale.am.gov.br/wp-content/uploads/2016/10/acumuladas.pdf;2016;Setembro
+Dep. Abdala Fraxe;http://www.ale.am.gov.br/wp-content/uploads/2016/10/abdala.pdf;2016;Setembro
+Dep. Alcimar Maciel;http://www.ale.am.gov.br/wp-content/uploads/2016/10/cabo-maciel.pdf;2016;Setembro
+Dep. Augusto Ferraz;http://www.ale.am.gov.br/wp-content/uploads/2016/10/augusto-ferraz.pdf;2016;Setembro
+Dep. Belarmino Lins;http://www.ale.am.gov.br/wp-content/uploads/2016/10/belarmino.pdf;2016;Setembro
+Dep. Carlos Alberto;http://www.ale.am.gov.br/wp-content/uploads/2016/10/carlos-alberto.pdf;2016;Setembro
+Dep. David Almeida;http://www.ale.am.gov.br/wp-content/uploads/2016/10/david.pdf;2016;Setembro
+Dep. Dermilson Chagas;http://www.ale.am.gov.br/wp-content/uploads/2016/10/dermilson.pdf;2016;Setembro
+Dep. Francisco Gomes;http://www.ale.am.gov.br/wp-content/uploads/2016/10/gomes.pdf;2016;Setembro
+Dep. Francisco Souza;http://www.ale.am.gov.br/wp-content/uploads/2016/10/francisco-souza.pdf;2016;Setembro
+Dep. João Bosco Saraiva;http://www.ale.am.gov.br/wp-content/uploads/2016/10/bosco-saraiva.pdf;2016;Setembro
+Dep. Orlando Cidade;http://www.ale.am.gov.br/wp-content/uploads/2016/10/orlando-cidade.pdf;2016;Setembro
+Dep. Platiny Soares;http://www.ale.am.gov.br/wp-content/uploads/2016/10/platiny.pdf;2016;Setembro
+Dep. Ricardo Nicolau;http://www.ale.am.gov.br/wp-content/uploads/2016/10/ricardo-nicolau.pdf;2016;Setembro
+Dep. Sinésio Campos;http://www.ale.am.gov.br/wp-content/uploads/2016/10/sinesio.pdf;2016;Setembro
+Dep. Wanderley Dallas;http://www.ale.am.gov.br/wp-content/uploads/2016/10/wanderley-dallas.pdf;2016;Setembro
+Dep.Vicente Lopes;http://www.ale.am.gov.br/wp-content/uploads/2016/10/vicente.pdf;2016;Setembro
+Acumulada;http://www.ale.am.gov.br/wp-content/uploads/2016/11/1198_0001.pdf;2016;Outubro
+Dep. Abdala Fraxe;http://www.ale.am.gov.br/wp-content/uploads/2016/11/ABDALA.pdf;2016;Outubro
+Dep. Adjuto Afonso;http://www.ale.am.gov.br/wp-content/uploads/2016/11/ADJUTO.pdf;2016;Outubro
+Dep. Alessandra Campêlo;http://www.ale.am.gov.br/wp-content/uploads/2016/11/ALESSANDRA.pdf;2016;Outubro
+Dep. Augusto Ferraz;http://www.ale.am.gov.br/wp-content/uploads/2016/11/FERRAZ.pdf;2016;Outubro
+Dep. Belarmino Lins;http://www.ale.am.gov.br/wp-content/uploads/2016/11/BELARMINO.pdf;2016;Outubro
+Dep. Bi Garcia;http://www.ale.am.gov.br/wp-content/uploads/2016/11/BI-GARCIA.pdf;2016;Outubro
+Dep. Bosco Saraiva;http://www.ale.am.gov.br/wp-content/uploads/2016/11/JOAO-BOSCO.pdf;2016;Outubro
+Dep. Cabo Maciel;http://www.ale.am.gov.br/wp-content/uploads/2016/11/MACIEL.pdf;2016;Outubro
+Dep. Carlos Alberto;http://www.ale.am.gov.br/wp-content/uploads/2016/11/CARLOS-ALBERTO.pdf;2016;Outubro
+Dep. David Almeida;http://www.ale.am.gov.br/wp-content/uploads/2016/11/DAVID.pdf;2016;Outubro
+Dep. Dermilson Chagas;http://www.ale.am.gov.br/wp-content/uploads/2016/11/DERMILSON.pdf;2016;Outubro
+Dep. Dr. Gomes;http://www.ale.am.gov.br/wp-content/uploads/2016/11/GOMES.pdf;2016;Outubro
+Dep. Francisco Souza;http://www.ale.am.gov.br/wp-content/uploads/2016/11/FRANCISCO-SOUZA.pdf;2016;Outubro
+Dep. José Ricardo;http://www.ale.am.gov.br/wp-content/uploads/2016/11/JOSe-RICARDO.pdf;2016;Outubro
+Dep. Luiz Castro;http://www.ale.am.gov.br/wp-content/uploads/2016/11/LUIZ-CASTRO.pdf;2016;Outubro
+Dep. Orlando Cidade;http://www.ale.am.gov.br/wp-content/uploads/2016/11/ORLANDO.pdf;2016;Outubro
+Dep. Platiny;http://www.ale.am.gov.br/wp-content/uploads/2016/11/PLATINY.pdf;2016;Outubro
+Dep. Ricardo Nicolau;http://www.ale.am.gov.br/wp-content/uploads/2016/11/NICOLAU.pdf;2016;Outubro
+Dep. Sabá Reis;http://www.ale.am.gov.br/wp-content/uploads/2016/11/SEBASTIaO.pdf;2016;Outubro
+Dep. Serafim Corrêa;http://www.ale.am.gov.br/wp-content/uploads/2016/11/SERAFIM.pdf;2016;Outubro
+Dep. Sinésio Campos;http://www.ale.am.gov.br/wp-content/uploads/2016/11/SINeSIO.pdf;2016;Outubro
+Dep. Vicente Lopes;http://www.ale.am.gov.br/wp-content/uploads/2016/11/VICENTE.pdf;2016;Outubro
+Dep. Wanderley Dallas;http://www.ale.am.gov.br/wp-content/uploads/2016/11/DALLAS.pdf;2016;Outubro
+Acumuladas;http://www.ale.am.gov.br/wp-content/uploads/2016/12/acumuladas.pdf;2016;Novembro
+Dep. Abdala Fraxe;http://www.ale.am.gov.br/wp-content/uploads/2016/12/abdala.pdf;2016;Novembro
+Dep. Alcimar Maciel;http://www.ale.am.gov.br/wp-content/uploads/2016/12/alcimar-maciel.pdf;2016;Novembro
+Dep. Alessandra Campêlo;http://www.ale.am.gov.br/wp-content/uploads/2016/12/alessandra.pdf;2016;Novembro
+Dep. Augusto Ferraz;http://www.ale.am.gov.br/wp-content/uploads/2016/12/augusto-ferraz.pdf;2016;Novembro
+Dep. Bi Garcia;http://www.ale.am.gov.br/wp-content/uploads/2016/12/bi.pdf;2016;Novembro
+Dep. Bosco Saraiva;http://www.ale.am.gov.br/wp-content/uploads/2016/12/bosco-saraiva.pdf;2016;Novembro
+Dep. Carlos Alberto;http://www.ale.am.gov.br/wp-content/uploads/2016/12/carlos-alberto.pdf;2016;Novembro
+Dep. David Almeida;http://www.ale.am.gov.br/wp-content/uploads/2016/12/david.pdf;2016;Novembro
+Dep. Dermilson Chagas;http://www.ale.am.gov.br/wp-content/uploads/2016/12/dermilson.pdf;2016;Novembro
+Dep. Francisco Gomes;http://www.ale.am.gov.br/wp-content/uploads/2016/12/francisco-gomes.pdf;2016;Novembro
+Dep. Francisco Souza;http://www.ale.am.gov.br/wp-content/uploads/2016/12/francisco-souza.pdf;2016;Novembro
+Dep. José Ricardo;http://www.ale.am.gov.br/wp-content/uploads/2016/12/jose-ricardo.pdf;2016;Novembro
+Dep. Luiz Castro;http://www.ale.am.gov.br/wp-content/uploads/2016/12/luiz-castro.pdf;2016;Novembro
+Dep. Orlando Cidade;http://www.ale.am.gov.br/wp-content/uploads/2016/12/orlando.pdf;2016;Novembro
+Dep. Ricardo Nicolau;http://www.ale.am.gov.br/wp-content/uploads/2016/12/ricardo.pdf;2016;Novembro
+Dep. Sabá Reis;http://www.ale.am.gov.br/wp-content/uploads/2016/12/saba.pdf;2016;Novembro
+Dep. Vicente Lopes;http://www.ale.am.gov.br/wp-content/uploads/2016/12/vicente.pdf;2016;Novembro
+Dep. Wanderley Dallas;http://www.ale.am.gov.br/wp-content/uploads/2016/12/dallas.pdf;2016;Novembro
+Dep.Adjuto Afonso;http://www.ale.am.gov.br/wp-content/uploads/2016/12/adjuto.pdf;2016;Novembro
+Dep.Belarmino Lins;http://www.ale.am.gov.br/wp-content/uploads/2016/12/belarmino.pdf;2016;Novembro
+Dep.Josué Neto;http://www.ale.am.gov.br/wp-content/uploads/2016/12/neto.pdf;2016;Novembro
+Dep.Platiny Soares;http://www.ale.am.gov.br/wp-content/uploads/2016/12/platiny.pdf;2016;Novembro
+Dep.Serafim Corrêa;http://www.ale.am.gov.br/wp-content/uploads/2016/12/serafim.pdf;2016;Novembro
+Dep.Sidney Leite;http://www.ale.am.gov.br/wp-content/uploads/2016/12/sidney.pdf;2016;Novembro
+Dep.Sinésio Campos;http://www.ale.am.gov.br/wp-content/uploads/2016/12/sinesio.pdf;2016;Novembro
+Acumuladas;http://www.ale.am.gov.br/wp-content/uploads/2017/01/acumuladas.pdf;2016;Dezembro
+Dep. Abdala Fraxe;http://www.ale.am.gov.br/wp-content/uploads/2017/01/Abdala-Fraxe1.pdf;2016;Dezembro
+Dep. Adjuto Afonso;http://www.ale.am.gov.br/wp-content/uploads/2017/01/Adjuto.pdf;2016;Dezembro
+Dep. Alcimar Maciel;http://www.ale.am.gov.br/wp-content/uploads/2017/01/Alcimar-Maciel.pdf;2016;Dezembro
+Dep. Alessandra Campêlo;http://www.ale.am.gov.br/wp-content/uploads/2017/01/Alessandra-Campelo.pdf;2016;Dezembro
+Dep. Augusto Ferraz;http://www.ale.am.gov.br/wp-content/uploads/2017/01/Augusto-Ferraz.pdf;2016;Dezembro
+Dep. Berlarmino Lins;http://www.ale.am.gov.br/wp-content/uploads/2017/01/Belarmino-Lins.pdf;2016;Dezembro
+Dep. Bi Garcia;http://www.ale.am.gov.br/wp-content/uploads/2017/01/Bi-Garcia.pdf;2016;Dezembro
+Dep. Carlos Alberto;http://www.ale.am.gov.br/wp-content/uploads/2017/01/Carlos-Alberto.pdf;2016;Dezembro
+Dep. David Almeida;http://www.ale.am.gov.br/wp-content/uploads/2017/01/David-Almeida.pdf;2016;Dezembro
+Dep. Dermilson Chagas;http://www.ale.am.gov.br/wp-content/uploads/2017/01/Dermilson.pdf;2016;Dezembro
+Dep. Francisco Souza;http://www.ale.am.gov.br/wp-content/uploads/2017/01/Francisco-Souza.pdf;2016;Dezembro
+Dep. José Ricardo;http://www.ale.am.gov.br/wp-content/uploads/2017/01/Jose-Ricardo.pdf;2016;Dezembro
+Dep. Orlando Cidade;http://www.ale.am.gov.br/wp-content/uploads/2017/01/Orlando-Cidade.pdf;2016;Dezembro
+Dep. Platiny Soares;http://www.ale.am.gov.br/wp-content/uploads/2017/01/Platiny-Soares.pdf;2016;Dezembro
+Dep. Ricardo Nicolau;http://www.ale.am.gov.br/wp-content/uploads/2017/01/Ricardo-Nicolau.pdf;2016;Dezembro
+Dep. Sabá Reis;http://www.ale.am.gov.br/wp-content/uploads/2017/01/Saba-Reis.pdf;2016;Dezembro
+Dep. Serafim Corrêa;http://www.ale.am.gov.br/wp-content/uploads/2017/01/Serafim-Correa.pdf;2016;Dezembro
+Dep. Sidney Leite;http://www.ale.am.gov.br/wp-content/uploads/2017/01/Sidney-Leite.pdf;2016;Dezembro
+Dep. Sinésio Campos;http://www.ale.am.gov.br/wp-content/uploads/2017/01/sinesio-Campos.pdf;2016;Dezembro
+Dep. Vicente Lopes;http://www.ale.am.gov.br/wp-content/uploads/2017/01/Vicente-Lopes.pdf;2016;Dezembro
+Dep. Wanderley Dallas;http://www.ale.am.gov.br/wp-content/uploads/2017/01/Wanderley-Dallas.pdf;2016;Dezembro
+Dep.Bosco Saraiva;http://www.ale.am.gov.br/wp-content/uploads/2017/01/Bosco-Saraiva.pdf;2016;Dezembro
+Dep.Josué Neto;http://www.ale.am.gov.br/wp-content/uploads/2017/01/Josue-Neto.pdf;2016;Dezembro
+Dep.Luiz Castro;http://www.ale.am.gov.br/wp-content/uploads/2017/01/Luiz-Castro.pdf;2016;Dezembro
