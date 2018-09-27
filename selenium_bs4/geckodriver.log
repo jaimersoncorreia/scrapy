@@ -108,3 +108,81 @@ JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo
 JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
 1537396223642	Marionette	INFO	Listening on port 33689
 1537396223691	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538010842251	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3Slgey9ZJ63h"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1538010853431	Marionette	INFO	Listening on port 36557
+1538010853525	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.gstatic.com/charts/45.2/js/jsapi_compiled_corechart_module.js, line 1: ReferenceError: gvjs_8K is not defined
+JavaScript warning: http://leideacesso.etransparencia.com.br/itaquaquecetuba.prefeitura.sp/jquery.js?101388, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1538010964195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UmDOz27rhy41"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1538010968233	Marionette	INFO	Listening on port 44849
+1538010968309	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox-esr:12336): GLib-GObject-WARNING **: /build/glib2.0-B1uXKV/glib2.0-2.50.3/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f0f82997e70' of type 'MaiAtkType13b'
+
+(firefox-esr:12336): GLib-GObject-WARNING **: /build/glib2.0-B1uXKV/glib2.0-2.50.3/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f0f92cd1b50' of type 'MaiAtkType139'
+JavaScript error: https://buscapreco.sefaz.am.gov.br/home, line 109: TypeError: s is null
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1538011021593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iOsNHlhhbRcC"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1538011025605	Marionette	INFO	Listening on port 38509
+1538011025720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://buscapreco.sefaz.am.gov.br/home, line 109: TypeError: s is null
+
+(firefox-esr:12548): GLib-GObject-WARNING **: /build/glib2.0-B1uXKV/glib2.0-2.50.3/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f5627581100' of type 'MaiAtkType13b'
+
+(firefox-esr:12548): GLib-GObject-WARNING **: /build/glib2.0-B1uXKV/glib2.0-2.50.3/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f56147c4290' of type 'MaiAtkType139'
+
+(firefox-esr:12548): GLib-GObject-WARNING **: /build/glib2.0-B1uXKV/glib2.0-2.50.3/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f56147bca60' of type 'MaiAtkType139'
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1538011089999	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eltc5diEYs5T"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1538011094119	Marionette	INFO	Listening on port 32865
+1538011094212	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://buscapreco.sefaz.am.gov.br/home, line 109: TypeError: s is null
+
+(firefox-esr:12762): GLib-GObject-WARNING **: /build/glib2.0-B1uXKV/glib2.0-2.50.3/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fea651485b0' of type 'MaiAtkType13b'
+
+(firefox-esr:12762): GLib-GObject-WARNING **: /build/glib2.0-B1uXKV/glib2.0-2.50.3/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fea68082b00' of type 'MaiAtkType139'
+
+(firefox-esr:12762): GLib-GObject-WARNING **: /build/glib2.0-B1uXKV/glib2.0-2.50.3/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fea67c710b0' of type 'MaiAtkType139'
+
+(firefox-esr:12762): GLib-GObject-WARNING **: /build/glib2.0-B1uXKV/glib2.0-2.50.3/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fea67eff790' of type 'MaiAtkType139'
+console.log: Accessibility service init or shutdown observer does not exist.
+1538011192222	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zicBHlryNZcw"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1538011196199	Marionette	INFO	Listening on port 45339
+1538011196245	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox-esr:13007): GLib-GObject-WARNING **: /build/glib2.0-B1uXKV/glib2.0-2.50.3/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fdb31fda7e0' of type 'MaiAtkType13b'
+
+(firefox-esr:13007): GLib-GObject-WARNING **: /build/glib2.0-B1uXKV/glib2.0-2.50.3/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fdb3c192600' of type 'MaiAtkType139'
+JavaScript error: https://buscapreco.sefaz.am.gov.br/home, line 109: TypeError: s is null
+
+(firefox-esr:13007): GLib-GObject-WARNING **: /build/glib2.0-B1uXKV/glib2.0-2.50.3/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fdb405656a0' of type 'MaiAtkType139'
+
+(firefox-esr:13007): GLib-GObject-WARNING **: /build/glib2.0-B1uXKV/glib2.0-2.50.3/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fdb31fdaba0' of type 'MaiAtkType139'
+
+(firefox-esr:13007): GLib-GObject-WARNING **: /build/glib2.0-B1uXKV/glib2.0-2.50.3/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fdb31fdaba0' of type 'MaiAtkType139'
+
+(firefox-esr:13007): GLib-GObject-WARNING **: /build/glib2.0-B1uXKV/glib2.0-2.50.3/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fdb31fdaba0' of type 'MaiAtkType139'
+
+(firefox-esr:13007): GLib-GObject-WARNING **: /build/glib2.0-B1uXKV/glib2.0-2.50.3/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fdb344de1a0' of type 'MaiAtkType139'
+
+(firefox-esr:13007): GLib-GObject-WARNING **: /build/glib2.0-B1uXKV/glib2.0-2.50.3/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fdb31fda7e0' of type 'MaiAtkType13b'
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyB5EXE7wgYbukW-W7ziyeff-dRZKQPN9jg&callback=initMap, line 72: TypeError: a is null
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyB5EXE7wgYbukW-W7ziyeff-dRZKQPN9jg&callback=initMap, line 72: TypeError: a is null
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyB5EXE7wgYbukW-W7ziyeff-dRZKQPN9jg&callback=initMap, line 72: TypeError: a is null
+
+(firefox-esr:13007): GLib-GObject-WARNING **: /build/glib2.0-B1uXKV/glib2.0-2.50.3/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fdb30565d80' of type 'MaiAtkType13b'
+
+(firefox-esr:13007): GLib-GObject-WARNING **: /build/glib2.0-B1uXKV/glib2.0-2.50.3/./gobject/gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fdb30565d80' of type 'MaiAtkType13b'
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyB5EXE7wgYbukW-W7ziyeff-dRZKQPN9jg&callback=initMap, line 72: TypeError: a is null
+JavaScript error: https://maps.googleapis.com/maps/api/js?key=AIzaSyB5EXE7wgYbukW-W7ziyeff-dRZKQPN9jg&callback=initMap, line 72: TypeError: a is null
+
+(firefox-esr:13007): GLib-GObject-WARNING **: /build/glib2.0-B1uXKV/glib2.0-2.50.3/./gobject/gsignal.c:3492: signal name 'load_complete' is invalid for instance '0x7fdb344e72e0' of type 'MaiAtkType1'
